@@ -6,7 +6,7 @@ Plugin for Inteliji Idea. Switching light/dark theme by one button.
 ### Как собрать jar:
 + Открыть меню Gradle
 + Выбрать intellij
- +Нажать buildPlugin
++ Нажать buildPlugin
 + jar файл будет лежать в build\idea-sandbox\plugins\ThemeSwitcher\lib
 
 ![Сборка в jar](https://github.com/StalnoyKapibar/ThemeSwitcher/raw/Screenshots/buildJar.png)
@@ -25,7 +25,8 @@ intellij {
 
 
 ### Инструкция по установке
-+ Открыть настройки (ctral+alt+s) - далее plugins - настройки(значок шестеренки)- install plugin from disk
+1. Открыть настройки (ctral+alt+s)
++далее plugins - настройки(значок шестеренки)- install plugin from disk
 ![Установка плагина](https://github.com/StalnoyKapibar/ThemeSwitcher/raw/Screenshots/install1.png)
 + Перезапустить идею.
 + Готово. Чуть левее кнопки запуски проекта будет значок на смену темы.
