@@ -1,0 +1,23 @@
+<idea-plugin>
+    <id>ThemeSwitcher.ThemeSwitcher</id>
+    <name>Theme Switcher</name>
+    <vendor email="salts.jobanan@gmail.com">Andrei Dmitrichenko</vendor>
+
+    <description>
+        Change the theme of IDE between Darcula and Default
+    </description>
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.lang</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <action id="Myplugin.ChangeTheme" class="Switcher" description="Change theme" text="Change theme" icon="/icons/icon.png">
+            <add-to-group group-id="NavBarToolBar" anchor="first"/>
+        </action>
+    </actions>
+    <version/>
+</idea-plugin>
