@@ -26,7 +26,7 @@ intellij {
 
 ### Инструкция по установке
 1. Открыть настройки (ctral+alt+s)
-+далее plugins - настройки(значок шестеренки)- install plugin from disk
++ далее plugins - настройки(значок шестеренки)- install plugin from disk
 ![Установка плагина](https://github.com/StalnoyKapibar/ThemeSwitcher/raw/Screenshots/install1.png)
 + Перезапустить идею.
 + Готово. Чуть левее кнопки запуски проекта будет значок на смену темы.
