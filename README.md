@@ -12,7 +12,7 @@ Plugin for Inteliji Idea. Switching light/dark theme by one button.
 
 ![Сборка в jar](https://github.com/StalnoyKapibar/ThemeSwitcher/raw/Screenshots/build.Jarpng.png)
 
-### Для корректной работоспособности с разными версиями IDEA### 
+### Для корректной работоспособности с разными версиями IDEA
 
 1. Узнать версию IntelliJ IDEA на которую планируется установить плагин
 2. Открыть файл build.gradle
