@@ -22,4 +22,4 @@ intellij {
 }
 4. Значение в ключе version заменить на нужную версию
 
-![Сборка в jar](https://github.com/StalnoyKapibar/ThemeSwitcher/raw/Screenshots/build.Jarpng.png)
+![Сборка в jar](https://github.com/StalnoyKapibar/ThemeSwitcher/raw/Screenshots/build.png)
