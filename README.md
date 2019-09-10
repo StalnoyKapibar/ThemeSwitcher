@@ -22,3 +22,10 @@ intellij {
 4. Значение в ключе version заменить на нужную версию
 
 ![Смена версии](https://github.com/StalnoyKapibar/ThemeSwitcher/raw/Screenshots/build.png)
+
+
+### Инструкция по установке
++ Открыть настройки (ctral+alt+s) - далее plugins - настройки(значок шестеренки)- install plugin from disk
+![Установка плагина](https://github.com/StalnoyKapibar/ThemeSwitcher/raw/Screenshots/install1.png)
++ Перезапустить идею.
++ Готово. Чуть левее кнопки запуски проекта будет значок на смену темы.
